@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6db8fcbb-5a1b-4206-b8c3-a3e406811360" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/images/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/templates/images/bookmarklet_launcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/templates/images/image/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/urls.py" afterDir="false" />
+    <list default="true" id="6db8fcbb-5a1b-4206-b8c3-a3e406811360" name="Changes" comment="kod z 27.11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Account/templates/account/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/Account/templates/account/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bookmarks/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bookmarks/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bookmarks/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bookmarks/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/images/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/images/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/images/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,25 +50,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Django Server.Bookmarks.executor": "Run",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/adamkarczewski/Documents/Adam_Karczewski/4Tp/g1/Bookmarks",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Django Server.Bookmarks.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/adamkarczewski/Documents/Adam_Karczewski/4Tp/g1/Bookmarks&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Account" />
@@ -112,8 +104,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
-        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
       </set>
     </attachedChunks>
   </component>
@@ -138,7 +130,8 @@
       <workItem from="1730876891494" duration="2141000" />
       <workItem from="1731926253706" duration="4477000" />
       <workItem from="1732531210999" duration="5599000" />
-      <workItem from="1732691354653" duration="1521000" />
+      <workItem from="1732691354653" duration="2103000" />
+      <workItem from="1733136476617" duration="2598000" />
     </task>
     <task id="LOCAL-00001" summary="Kod z 7.10">
       <option name="closed" value="true" />
@@ -212,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732531225533</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="kod z 27.11">
+      <option name="closed" value="true" />
+      <created>1732693452137</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732693452137</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +229,7 @@
     <MESSAGE value="Kod z 04.11" />
     <MESSAGE value="Kod z 06.11" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="kod z 27.11" />
+    <option name="LAST_COMMIT_MESSAGE" value="kod z 27.11" />
   </component>
 </project>

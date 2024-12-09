@@ -5,7 +5,7 @@
                 Math.random()*999999999999999999);
             window.bookmarklet = true;
         }else{
-            bookmarkletLanuch();
+            bookmarkletLaunch();
         }
     }
 )();
